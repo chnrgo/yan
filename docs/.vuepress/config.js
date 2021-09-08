@@ -1,4 +1,5 @@
 module.exports = {
+    base:'/docs/',
     themeConfig: {
       logo: '/assets/img/hero.png',
       nav: [
