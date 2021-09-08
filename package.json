@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "vuepress": "^1.8.2"
+  },
+  "name": "yan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chnrgo/yan.git",
+  "author": "chnrgo <chnrgo@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
